@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Beňo"
+  given-names: "Adrian"
+title: "Honours Programme Bachelor - Deep RL based Nonlinear Adaptive Flight Control"
+version: 1.0
+date-released: 1st July 2023
+url: "https://github.com/AdrianBeno/DRL-based-Nonlinear-Adaptive-Flight-Control"
